@@ -1,0 +1,22 @@
+Dates from 390 Days
+ 50 Days Prediction Accuracy
+Linear : 0.00667553970333
+LR : 0.554666666667
+KNN : 0.776
+SVM : 0.832
+RF : 0.896
+Neural Network : 0.746666666667
+100 Days Prediction Accuracies
+Linear : 0.00667553970333
+LR : 0.554666666667
+KNN : 0.776
+SVM : 0.832
+RF : 0.904
+Neural Network : 0.746666666667
+200 Days Prediction Accuracies
+Linear : 0.00667553970333
+LR : 0.554666666667
+KNN : 0.776
+SVM : 0.832
+RF : 0.914666666667
+Neural Network : 0.746666666667
